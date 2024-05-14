@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.slate.com/*"],
-      "js": ["slate-fixer.js"]
+      "js": ["advice-fixer.js"]
     }
   ]
 }
