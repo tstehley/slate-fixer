@@ -6,7 +6,7 @@
   "description": "Replaces sensational slate.com homepage headlines with the less clickbaity headline on the article page.",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/nosense-48.png"
   },
 
   "content_scripts": [
